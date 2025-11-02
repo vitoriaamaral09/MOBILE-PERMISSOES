@@ -1,11 +1,11 @@
-# 📍 MyLocationApp (React Native + Expo)
+#  MyLocationApp (React Native + Expo)
 
 Aplicativo desenvolvido em **React Native / Expo** com o objetivo de **demonstrar persistência de dados e uso de permissões**.  
 Este projeto faz parte do exercício da disciplina *Soluções Mobile (UNISATC)*.
 
 ---
 
-## 🎯 Objetivo do App
+##  Objetivo do App
 
 O **MyLocationApp** permite:
 - Capturar a **localização atual** do usuário (latitude e longitude)
@@ -16,7 +16,7 @@ O **MyLocationApp** permite:
 
 ---
 
-## 🧠 Conceitos aplicados
+##  Conceitos aplicados
 
 | Conceito | Lib utilizada | Descrição |
 |-----------|----------------|------------|
@@ -27,7 +27,7 @@ O **MyLocationApp** permite:
 
 ---
 
-## 🛠️ Tecnologias e dependências
+##  Tecnologias e dependências
 
 - [Expo SDK 48+](https://docs.expo.dev/)
 - [React Native 0.71+](https://reactnative.dev/)

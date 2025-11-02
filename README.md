@@ -38,7 +38,7 @@ O **MyLocationApp** permite:
 ---
 
 
-### 1️⃣ Pré-requisitos
+###  Pré-requisitos
 - Node.js e npm/yarn instalados
 - Expo CLI:
   ```bash
